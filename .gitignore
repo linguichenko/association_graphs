@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+/figs/
+/SWOW-EN18/
+/LWOW/
+/words.txt
